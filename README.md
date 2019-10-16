@@ -217,5 +217,5 @@ public class Bird : MonoBehaviour
 
 参考：
 
-[使用Unity训练AI玩《Flappy]: https://mp.weixin.qq.com/s?__biz=MzU5MjQ1NTEwOA==&amp;mid=2247495565&amp;idx=1&amp;sn=113f4de5d996525ba7f49c0e87d86fec&amp;chksm=fe1ddb26c96a52309d75fcf9293e5f95e510c91dcc80689dd57323f96c04f6a94c0bc6708bc9&amp;scene=21#wechat_redirect
+[使用Unity训练AI玩《Flappy》] : https://mp.weixin.qq.com/s?__biz=MzU5MjQ1NTEwOA==&amp;mid=2247495565&amp;idx=1&amp;sn=113f4de5d996525ba7f49c0e87d86fec&amp;chksm=fe1ddb26c96a52309d75fcf9293e5f95e510c91dcc80689dd57323f96c04f6a94c0bc6708bc9&amp;scene=21#wechat_redirect
 
